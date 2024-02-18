@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bhagyadeep and I'm a frontend web devloper</p>
+<p align="left">My name is Bhagyadeep and I'm a frontend web devloper.</p>
 
 ###
 
@@ -12,6 +12,11 @@ Self-taught frontend web developer passionate about creating awesome digital exp
 <p align="left">📚 I'm currently learning react and figma <br>🎯 Goals: Full stack web developer</p>
 
 ###
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+
+###
+
 
 <h2 align="left">Tools I use</h2>
 
@@ -32,5 +37,3 @@ Self-taught frontend web developer passionate about creating awesome digital exp
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Vs Code  logo"  />
 </div>
-
-###
