@@ -36,4 +36,5 @@ Self-taught frontend web developer passionate about creating awesome digital exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Vs Code  logo"  />
+  <img width="12" />
 </div>
