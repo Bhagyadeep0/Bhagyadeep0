@@ -2,19 +2,18 @@
 
 ###
 
-<p align="left">My name is Bhagyadeep and I'm a frontend devloper</p>
+<p align="left">My name is Bhagyadeep and I'm a frontend web devloper</p>
 
 ###
 
 <h2 align="left">About me</h2>
+Self-taught frontend web developer passionate about creating awesome digital experiences. I specialize in HTML5, CSS3, JavaScript, Tailwind CSS, and WordPress.
+
+<p align="left">📚 I'm currently learning react and figma <br>🎯 Goals: Full stack web developer</p>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">Tools I use</h2>
 
 ###
 
@@ -30,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Vs Code  logo"  />
 </div>
 
 ###
