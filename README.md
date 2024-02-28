@@ -13,14 +13,13 @@ Self-taught frontend web developer passionate about creating awesome digital exp
 
 ###
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 
-###
 
 
 <h2 align="left">Tools I use</h2>
 
 ###
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -38,3 +37,4 @@ Self-taught frontend web developer passionate about creating awesome digital exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Vs Code  logo"  />
   <img width="12" />
 </div>
+
