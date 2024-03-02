@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bhagyadeep and I'm a frontend web devloper.</p>
+<p align="left">My name is Bhagyadeep and I'm a frontend web developer.</p>
 
 ###
 
