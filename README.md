@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 Self-taught frontend web developer passionate about creating awesome digital experiences. I specialize in HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS , Photoshop, Sass and WordPress.
 
-<p align="left">📚 Currently expanding my skill set with React, Next.js, Figma, Python, and C++<br>🎯 Aspiring to become a full-stack web developer</p>
+<p align="left">📚 Currently expanding my skill set with React, Next.js, Figma, Python<br>🎯 Aspiring to become a full-stack web developer</p>
 
 ###
 
