@@ -52,11 +52,17 @@ Self-taught frontend web developer passionate about creating awesome digital exp
 </div>
 
 ##
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagyadeep0&show_icons=true&locale=en&layout=compact" alt="bhagyadeep0" /></p>
+<div align="left">
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagyadeep0&show_icons=true&locale=en&layout=compact" alt="bhagyadeep0" width="355" /></span>
+  <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagyadeep0&show_icons=true&locale=en" alt="bhagyadeep0" width="400" /></span>
+  
+  ###
+  
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyadeep0&" alt="bhagyadeep0" width="400"/></span>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagyadeep0&show_icons=true&locale=en" alt="bhagyadeep0" /></p>
-
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyadeep0&" alt="bhagyadeep0" /></p>-->
-
+###
 ##
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<div>
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+</div>
