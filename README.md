@@ -18,7 +18,7 @@ Self-taught frontend web developer passionate about creating awesome digital exp
 <div align="left">
 <a  href="https://www.behance.net/https://www.behance.net/bhagyadeep_ghosh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/bhagyadeep_ghosh" width="60" /></a>
 <a href="https://twitter.com/bhagyadeepghosh" target="blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100"></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bghosh0" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/bghosh0](https://www.linkedin.com/in/bghosh0/)" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
 
 </div>
 
